@@ -1,2 +1,2 @@
 # Hacking-script-collection-
-Real Deal hacking scripts that sctually work and make you money. anyone can hack with these scripts + tutorial
+Real Deal hacking scripts that sctually work and make you money. anyone can hack with these scripts + tutorial. Package includes multipul scripts and hacks that are a breeze for even the most novus of newb's plus a detailed tutorial on how to use them successfully. includes payloads ready for deployment via email, properly written java-script's to use with your inspecter tool, and more fun ,tips and scripts. DISCLAIMER: for educational purposes only. check it out at https://minerlock.com/lock/F89da73b7c106eck or https://bit.ly/2KPRLrO
